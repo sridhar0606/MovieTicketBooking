@@ -1,0 +1,13 @@
+{
+    "_id" : ObjectId("637c23496d93adec23d99ccf"),
+    "name" : "sri",
+    "mobile" : 1234567976,
+    "Mytickets" : [ 
+       
+        {
+            "movie_name" : "Love Today",
+            "seat" : 2
+        }
+    ],
+    "__v" : 0
+}

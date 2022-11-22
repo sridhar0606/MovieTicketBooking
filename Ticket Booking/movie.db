@@ -1,0 +1,93 @@
+{
+    "_id" : ObjectId("6379f22441e6c2f65e395ebd"),
+    "movie_name" : "PS-1",
+    "director" : "Mani rathanam",
+    "poster_image" : "https://stat2.bollywoodhungama.in/wp-content/uploads/2022/09/Ponniyin-Selvan-Part-1.jpeg",
+    "running_date" : "15/10/22",
+    "show_times" : [ 
+        {
+            "time" : "10.00.Am"
+        }
+    ],
+    "cast" : [],
+    "alloted_seats" : [ 
+        {
+            "date" : "21/11/2022",
+            "seats" : [ 
+                {
+                    "seat" : 2
+                }
+            ]
+        }
+    ]
+}     ,{
+    "_id" : ObjectId("6379f46c41e6c2f65e395f90"),
+    "movie_name" : "Love Today",
+    "director" : " pratheep",
+    "poster_image" : "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-today-et00343241-1667476540.jpg",
+    "running_date" : "04/11/22",
+    "show_times" : [ 
+        {
+            "time" : "10.00.Am"
+        }, 
+        {
+            "time" : "0200.P"
+        }, 
+        {
+            "time" : "060.P"
+        }
+    ],
+    "cast" : [],
+    "alloted_seats" : [ 
+        {
+            "date" : "11/21/2022",
+            "seats" : [ 
+                {
+                    "seat" : 5
+                }, 
+                {
+                    "seat" : 1
+                }
+            ]
+        }, 
+        {
+            "date" : "11/22/2022",
+            "seats" : [ 
+                {
+                    "seat" : 1
+                }
+            ]
+        }
+    ]
+},  {
+    "_id" : ObjectId("6379f49541e6c2f65e395fac"),
+    "movie_name" : "Kantara",
+    "director" : "Rishab Shetty",
+    "poster_image" : "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kantara-tamil-et00342169-1665647325.jpg",
+    "running_date" : "22/11/22",
+    "show_times" : [ 
+        {
+            "time" : "10.00.Am"
+        }, 
+        {
+            "time" : "0200.P"
+        }, 
+        {
+            "time" : "060.P"
+        }
+    ],
+    "cast" : [],
+    "alloted_seats" : [ 
+        {
+            "date" : "11/22/2022",
+            "seats" : [ 
+                {
+                    "seat" : 1
+                }, 
+                {
+                    "seat" : 49
+                }
+            ]
+        }
+    ]
+}
